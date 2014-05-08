@@ -13,20 +13,20 @@ html, body {
 }
 #bird {
 	position: absolute;
-	width: 275px;
-	height: 275px;
+	width: 500px;
+	height: 500px;
 
 	top: 50%;
 	left: 50%;
 
-	top: calc(50% - 137px);
-	left: calc(50% - 137px);
+	top: calc(50% - 250px);
+	left: calc(50% - 250px);
 }
 
 .state1 {
-	background-image: url("images/bird-1.png");
+	background-image: url("1.png");
 }
 
 .state2 {
-	background-image: url("images/bird-2.png");
+	background-image: url("2.jpg");
 }
